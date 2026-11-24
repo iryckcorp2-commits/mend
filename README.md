@@ -1,8 +1,8 @@
 # mend
 
 [![make.fun bounty](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
-[![make.fun rank](https://make.fun/badge/iryckcorp2-commits/mend/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
-[![make.fun reward](https://make.fun/badge/iryckcorp2-commits/mend/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![make.fun rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/iryckcorp2-commits/mend/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![make.fun reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/iryckcorp2-commits/mend/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
 
 `mend` is one patch tool for every AI edit format. It reads a patch written
 by an AI model and applies it to a tree of text files, all or nothing: either
